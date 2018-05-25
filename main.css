@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: antiquewhite;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.introduction {
+    display: block;
+    margin: 0 auto;
+    background-color: darkseagreen;
+    width: 85%;
+    border: 2px solid greenyellow;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+.proscons{
+    background-color: burlywood;
+    margin: 0 auto;
+    display: block;
+    width: 85%;
+    border: 2px solid greenyellow;
+    padding: 20px
+}
+.approach{
+    background-color: aquamarine;
+    margin: 0 auto;
+    display: block;
+    width: 85%;
+    border: 2px solid greenyellow;
+    padding: 20px;
+}
+.celebrities{
+    background-color: darkgray;
+    margin: 0 auto;
+    display: block;
+    width: 85%;
+    border: 2px solid greenyellow;
+    padding: 20px;
+}
